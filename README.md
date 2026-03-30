@@ -6,17 +6,16 @@ HTML
 JavaScript
 C
 
-<!--
-**Jackboes/Jackboes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like buliding Web-Sites with interactive UI/UX and sometimes I like to experiment in Kali Linux.
+I have worked with Python libraries such as Pillow, SMTP, CSV files, Tkinter and Flask.
 
-Here are some ideas to get you started:
+Currently I am working on my 1st Mini-Project = :crossed_swords:'War : The Card Game.':crossed_swords:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Also I am on a side project about a language learning platform which uses HTML/CSS, JavaScript and Bootstrap.
+
+Apart from English, Ich spreche Deutsch!:de:
+
+
+
+
+
