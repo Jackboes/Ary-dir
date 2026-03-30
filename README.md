@@ -13,7 +13,7 @@ Currently I am working on my 1st Mini-Project = :crossed_swords:'War : The Card 
 
 Also I am on a side project about a language learning platform which uses HTML/CSS, JavaScript and Bootstrap.
 
-Apart from English, Ich spreche Deutsch!:de:
+Apart from English, Ich spreche Deutsch! :de:
 
 
 
