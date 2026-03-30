@@ -1,5 +1,11 @@
 ## Hi there 👋 I am Arinjay
 
+I can write code in 
+Python
+HTML
+JavaScript
+C
+
 <!--
 **Jackboes/Jackboes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
